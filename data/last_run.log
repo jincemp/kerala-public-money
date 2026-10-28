@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/home/runner/work/kerala-public-money/kerala-public-money/collectors/run_all.py", line 29, in main
+    run()
+  File "/home/runner/work/kerala-public-money/kerala-public-money/collectors/lsgd_plan.py", line 62, in main
+    as_on, rows, total = parse(resp.text)
+                         ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/kerala-public-money/kerala-public-money/collectors/lsgd_plan.py", line 56, in parse
+    raise RuntimeError(f"Only {len(rows)} districts found; the page may have changed")
+RuntimeError: Only 0 districts found; the page may have changed
+KIIFB: 1408 projects, 1401 with a district, saved to /home/runner/work/kerala-public-money/kerala-public-money/data/kiifb/2026-10-29.json
+Wrote /home/runner/work/kerala-public-money/kerala-public-money/site/data/summary.json
