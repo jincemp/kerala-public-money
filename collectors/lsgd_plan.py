@@ -24,7 +24,10 @@ def parse(html):
     soup = BeautifulSoup(html, "html.parser")
     page_text = soup.get_text(" ", strip=True)
     as_on = None
-    match = re.search(r"as on\s+([^|]{4,40}?(?:AM|PM|\d{4}))", page_text, re.I)
+    # Keep the time when the heading has one, e.g. "as on 13 July 2025, 10:00AM".
+    match = re.search(
+        r"as on\s+([^|]{4,40}?(?:\d{4}(?:,?\s*\d{1,2}[:.]\d{2}\s*(?:AM|PM)?)?|AM|PM))",
+        page_text, re.I)
     if match:
         as_on = "as on " + match.group(1).strip()
 
@@ -59,7 +62,14 @@ def parse(html):
 
 def main():
     resp = fetch(URL)
-    as_on, rows, total = parse(resp.text)
+    try:
+        as_on, rows, total = parse(resp.text)
+    except RuntimeError:
+        # Since Oct 2026 every /plandashboard/ address redirects to the Sulekha
+        # welcome page, which has no table. Say so in data/status.json.
+        if resp.url != URL:
+            raise RuntimeError(f"No plan table found. {URL} now redirects to {resp.url}") from None
+        raise
     payload = {
         "source": "LSGD Plan Dashboard",
         "source_url": URL,
