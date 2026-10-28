@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kerala Public Money – where Kerala's public money goes</title>
+<meta name="description" content="A citizen-run dashboard showing where Kerala's public money goes, built from official public data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Malayalam:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="./">
+      <svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><rect x="1" y="1" width="26" height="26" rx="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 19V13M14 19V8M20 19V11" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
+      <span>Kerala Public Money</span>
+    </a>
+    <nav aria-label="Main" class="nav">
+      <a href="./" aria-current="page">Overview</a>
+      <a href="#districts">Districts</a>
+      <a href="#audits">Audits</a>
+      <a href="#about">About the data</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <section class="hero">
+    <p class="eyebrow">Kerala overview</p>
+    <h1>Where Kerala's public money goes, and what it delivers</h1>
+    <p class="lead">Figures are collected automatically from official sources. Every number links to where it came from.</p>
+    <p class="updated" id="updated">Loading the latest data…</p>
+  </section>
+
+  <section aria-labelledby="h-key">
+    <h2 id="h-key" class="sr">Key figures</h2>
+    <div class="cards" id="key-cards"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="h-pipe">
+    <h2 id="h-pipe">From approval to payment: KIIFB projects</h2>
+    <p class="muted">Approval is a promise. Money released shows what has really happened.</p>
+    <ol class="steps" id="pipeline"></ol>
+    <p class="note" id="pipeline-note"></p>
+  </section>
+
+  <section class="panel" id="districts" aria-labelledby="h-dist">
+    <h2 id="h-dist">Districts</h2>
+    <p class="muted">Districts are listed north to south.</p>
+    <div class="table-box">
+      <table>
+        <caption class="sr">Local plan spending and KIIFB projects by district</caption>
+        <thead>
+          <tr>
+            <th scope="col">District</th>
+            <th scope="col" class="num">Local plan budget</th>
+            <th scope="col" class="bar-col">Local plan spent so far</th>
+            <th scope="col" class="num">KIIFB projects</th>
+            <th scope="col" class="num">KIIFB approved</th>
+            <th scope="col" class="num">KIIFB released</th>
+          </tr>
+        </thead>
+        <tbody id="district-rows"></tbody>
+      </table>
+    </div>
+    <p class="note" id="district-sources"></p>
+  </section>
+
+  <div class="two-col">
+    <section class="panel" aria-labelledby="h-flag">
+      <h2 id="h-flag">Projects that need a look</h2>
+      <p class="muted">Picked by fixed rules, not by opinion. A flag is a reason to ask questions, not proof of a problem.</p>
+      <div id="flags"></div>
+    </section>
+
+    <section class="panel" id="audits" aria-labelledby="h-audit">
+      <h2 id="h-audit">What the auditors found</h2>
+      <p class="muted">Findings from the national auditor (CAG).</p>
+      <div id="audit-list"></div>
+      <div class="stat-box">
+        <span class="stat">102</span>
+        <span>Public Accounts Committee reports, March 2022 to January 2026, checking whether departments acted on audit findings. <a href="https://niyamasabha.org/codes/15_pac_rpt.htm">See the reports</a></span>
+      </div>
+    </section>
+  </div>
+
+  <section class="panel" aria-labelledby="h-out">
+    <h2 id="h-out">What the money delivers</h2>
+    <div class="cards" id="outcomes"></div>
+  </section>
+</main>
+
+<footer class="site-footer" id="about">
+  <div class="wrap footer-row">
+    <div>
+      <p class="footer-title">About this site</p>
+      <p>Run by citizens. This is not a government website. All figures come from public official sources and are shown as published. Amounts are in crore rupees (₹1 crore = ₹10 million).</p>
+      <p>Sources: KIIFB · LSGD Plan Dashboard · CAG · Kerala Legislative Assembly · PRS · NITI Aayog</p>
+    </div>
+    <div class="footer-links">
+      <a href="data/summary.json">Download the data (JSON)</a>
+    </div>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

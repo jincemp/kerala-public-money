@@ -1,0 +1,235 @@
+{
+ "generated_at": "2026-10-28T18:45:45+00:00",
+ "district_order": [
+  "Kasaragod",
+  "Kannur",
+  "Wayanad",
+  "Kozhikode",
+  "Malappuram",
+  "Palakkad",
+  "Thrissur",
+  "Ernakulam",
+  "Idukki",
+  "Kottayam",
+  "Alappuzha",
+  "Pathanamthitta",
+  "Kollam",
+  "Thiruvananthapuram"
+ ],
+ "state_figures": {
+  "_note": "Figures entered by hand from official or trusted sources. Update when a new budget or accounts are published.",
+  "budget_estimate": {
+   "label": "State budget 2026-27",
+   "value_cr": 227567,
+   "caption": "planned spending this year",
+   "source_name": "PRS budget analysis",
+   "source_url": "https://prsindia.org/budgets/states/kerala-budget-analysis-2026-27",
+   "source_note": "budget estimate"
+  },
+  "actual_spending": {
+   "label": "Actually spent in 2024-25",
+   "value_cr": 173808,
+   "caption": "the latest full year with final accounts",
+   "source_name": "PRS budget analysis",
+   "source_url": "https://prsindia.org/budgets/states/kerala-budget-analysis-2026-27",
+   "source_note": "actuals from state accounts"
+  }
+ },
+ "audits": [
+  {
+   "title": "Rebuild Kerala Initiative",
+   "finding": "Only ₹1,292 crore of ₹2,648 crore in World Bank and KfW loans had been passed on to the programme.",
+   "source_name": "CAG State Finances Audit Report 2021-22",
+   "source_url": "https://www.digitalreports.cag.gov.in/kerala",
+   "source_note": "tabled February 2024",
+   "secondary_url": "https://www.onmanorama.com/news/kerala/2024/02/15/cag-pulls-up-pinarayi-govt-tardy-implemnetation-rebuild-kerala-intiative.html"
+  }
+ ],
+ "outcomes": [
+  {
+   "value": "1st",
+   "label": "in NITI Aayog's SDG India Index 2023-24, joint with Uttarakhand",
+   "source_name": "NITI Aayog",
+   "source_url": "https://sdgindiaindex.niti.gov.in"
+  }
+ ],
+ "kiifb": {
+  "source_url": "https://www.kiifb.org/prjStatus.jsp",
+  "collected_at": "2026-10-28T18:44:35+00:00",
+  "project_count": 1157,
+  "evaluating_count": 251,
+  "total_approved_cr": 93100.86,
+  "total_released_cr": 40772.58,
+  "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
+  "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
+  "pipeline": [
+   {
+    "label": "Under evaluation",
+    "value": "251",
+    "sub": "projects waiting for approval"
+   },
+   {
+    "label": "Approved",
+    "value": "₹93,101 cr",
+    "sub": "1,157 projects"
+   },
+   {
+    "label": "Money released",
+    "value": "₹40,773 cr",
+    "sub": "50% of their approved amount, to 638 projects"
+   },
+   {
+    "label": "Mostly paid",
+    "value": "110",
+    "sub": "projects with 90% or more of their approved amount released"
+   }
+  ],
+  "by_district": {
+   "Kasaragod": {
+    "count": 48,
+    "approved_cr": 4189.41,
+    "released_cr": 497.33
+   },
+   "Kannur": {
+    "count": 114,
+    "approved_cr": 10135.83,
+    "released_cr": 2788.21
+   },
+   "Wayanad": {
+    "count": 28,
+    "approved_cr": 1016.28,
+    "released_cr": 447.48
+   },
+   "Kozhikode": {
+    "count": 100,
+    "approved_cr": 4243.16,
+    "released_cr": 965.44
+   },
+   "Malappuram": {
+    "count": 93,
+    "approved_cr": 3745.9,
+    "released_cr": 1137.67
+   },
+   "Palakkad": {
+    "count": 94,
+    "approved_cr": 4137.12,
+    "released_cr": 1971.04
+   },
+   "Thrissur": {
+    "count": 69,
+    "approved_cr": 3675.5,
+    "released_cr": 872.56
+   },
+   "Ernakulam": {
+    "count": 77,
+    "approved_cr": 10820.74,
+    "released_cr": 4240.36
+   },
+   "Idukki": {
+    "count": 24,
+    "approved_cr": 1082.33,
+    "released_cr": 354.7
+   },
+   "Kottayam": {
+    "count": 43,
+    "approved_cr": 2452.25,
+    "released_cr": 872.85
+   },
+   "Alappuzha": {
+    "count": 79,
+    "approved_cr": 5035.57,
+    "released_cr": 1781.44
+   },
+   "Pathanamthitta": {
+    "count": 39,
+    "approved_cr": 1469.18,
+    "released_cr": 725.94
+   },
+   "Kollam": {
+    "count": 74,
+    "approved_cr": 3455.26,
+    "released_cr": 1111.31
+   },
+   "Thiruvananthapuram": {
+    "count": 144,
+    "approved_cr": 18855.63,
+    "released_cr": 10101.15
+   }
+  },
+  "multi_district": {
+   "count": 131,
+   "approved_cr": 18786.68
+  },
+  "flag_groups": [
+   {
+    "rule": "Approved for ₹100 crore or more, no money released yet",
+    "count": 28,
+    "items": [
+     {
+      "name": "Dummy Sub Project for compensating the Conditionally Approved amount 5200 Cr against the Approved sub projects of Transgrid.2 - reg",
+      "agency": "KSEBL TRANSGRID",
+      "district": "Kasaragod",
+      "approved_cr": 2507.4,
+      "released_cr": 0.0
+     },
+     {
+      "name": "VENNALA SEWERAGE PROJECT",
+      "agency": "KOCHI METRO RAIL LIMITED",
+      "district": "Ernakulam",
+      "approved_cr": 465.68,
+      "released_cr": 0.0
+     },
+     {
+      "name": "ASE Reformation of damaged sunken sea wall and Allied works using Tetrapods in between CP Stone 1016 and 1047 for 6.1 km stretches along Chellanam coast Phase II",
+      "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
+      "district": "Ernakulam",
+      "approved_cr": 369.39,
+      "released_cr": 0.0
+     },
+     {
+      "name": "ELAMKULAM SEWERAGE PROJECT",
+      "agency": "KOCHI METRO RAIL LIMITED",
+      "district": "Ernakulam",
+      "approved_cr": 341.97,
+      "released_cr": 0.0
+     }
+    ]
+   },
+   {
+    "rule": "More money released than approved (possible data error on KIIFB's site)",
+    "count": 281,
+    "items": [
+     {
+      "name": "Construction of 10 bedded isolation wards in 140 LAC",
+      "agency": "KERALA MEDICAL SERVICES CORPORATION LIMITED",
+      "district": "Kasaragod, Kannur, Wayanad, Kozhikode, Malappuram, Palakkad, Thrissur, Ernakulam, Idukki, Kottayam, Alappuzha, Pathanamthitta, Kollam, Thiruvananthapuram",
+      "approved_cr": 236.3,
+      "released_cr": 15805.41
+     },
+     {
+      "name": "Kochi Lines Package",
+      "agency": "KSEBL TRANSGRID",
+      "district": "Ernakulam, Idukki",
+      "approved_cr": 372.73,
+      "released_cr": 2475.57
+     },
+     {
+      "name": "Kottayam Lines Package",
+      "agency": "KSEBL TRANSGRID",
+      "district": "Kottayam, Alappuzha",
+      "approved_cr": 175.58,
+      "released_cr": 1401.02
+     },
+     {
+      "name": "Coastal Highway Reach 2 - SH Bypass Crossing to South Chellanam in Alappuzha district ( 33 km)",
+      "agency": "KERALA ROAD FUND BOARD",
+      "district": "Alappuzha",
+      "approved_cr": 847.28,
+      "released_cr": 1958.4
+     }
+    ]
+   }
+  ]
+ },
+ "lsgd_plan": null
+}

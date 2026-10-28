@@ -1,0 +1,19 @@
+{
+ "_note": "Figures entered by hand from official or trusted sources. Update when a new budget or accounts are published.",
+ "budget_estimate": {
+  "label": "State budget 2026-27",
+  "value_cr": 227567,
+  "caption": "planned spending this year",
+  "source_name": "PRS budget analysis",
+  "source_url": "https://prsindia.org/budgets/states/kerala-budget-analysis-2026-27",
+  "source_note": "budget estimate"
+ },
+ "actual_spending": {
+  "label": "Actually spent in 2024-25",
+  "value_cr": 173808,
+  "caption": "the latest full year with final accounts",
+  "source_name": "PRS budget analysis",
+  "source_url": "https://prsindia.org/budgets/states/kerala-budget-analysis-2026-27",
+  "source_note": "actuals from state accounts"
+ }
+}
