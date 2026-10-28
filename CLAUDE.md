@@ -9,7 +9,7 @@ A citizen-run dashboard showing where Kerala's public money goes, built only fro
 - `.github/workflows/collect.yml` – runs daily at 06:17 India time and on pushes to `collectors/`. It commits new data. A failed run opens a GitHub issue with the log, and `data/last_run.log` keeps the latest log.
 - `data/manual/` – hand-entered figures with sources (state budget, audit findings, outcomes).
 - Not yet hosted. The repository has been public since 28 Oct 2026, so GitHub Pages is free. Render is another free option for a static site (publish folder `site`). Choose with the owner.
-- **GitHub Actions can't run yet.** The two push runs on 28 Oct failed in 2 seconds with no runner, no log and 0 billed minutes. The owner's account had used its 2,000 included Actions minutes (12 Oct) and its monthly Actions budget (17 Oct). Both reset on 1 Nov. The minutes and budget cover all the owner's private repositories. This one is new, so other repositories used them up. A job that never starts can't open an issue, so watch GitHub's "Run failed" emails too. Fixes are the owner's call: make this repository public (Actions minutes are free for public repositories), raise the budget, or wait for the reset.
+- **GitHub Actions works since the repository went public (28 Oct).** The first good run (started by hand, 28 Oct 19:53 UTC) took about a minute. KIIFB collected 1,408 projects (1,401 with a district). LSGD failed because its page has gone (see below). Before that, two runs failed in 2 seconds with no runner and no log: the account had used up its Actions minutes for private repositories. A job that never starts can't open an issue, so if that happens again, look at GitHub's "Run failed" emails.
 - Only a whole-run crash fails the job and opens an issue. If one collector fails, the run still passes, and the error is recorded only in `data/status.json`.
 
 ## Sources and their quirks
@@ -30,7 +30,7 @@ A citizen-run dashboard showing where Kerala's public money goes, built only fro
 - The Internet Archive has a good copy from 11 June 2026: https://web.archive.org/web/20260611100654/https://lsgkerala.gov.in/plandashboard/Plan/Annualplandetails.php. The Claude cloud workspace couldn't reach web.archive.org.
 - Search results still show the heading "Annual Plan % of Expenditure as on 13 July 2025, 10:00AM". Always show the "as on" date.
 - Columns: District, 6 budget columns (General, SCP, TSP, FC Untied, FC Tied, KLGSDP) and a budget Total, 6 matching expenditure columns and an expenditure Total, then New and SpillOver projects, then percentage. Expenditure cells look like `28.04 [ 10.02%]`.
-- Certificate: the chain ends in the root "emSign Root CA - G1". Python's `certifi` list (which `requests` uses by default, as in GitHub Actions) includes it. Ubuntu 24.04's system list doesn't. The Claude cloud workspace forces the system list with `REQUESTS_CA_BUNDLE`, which causes "self-signed certificate in certificate chain". To test there, point `REQUESTS_CA_BUNDLE` at a file that joins `/root/.ccr/ca-bundle.crt` and `certifi`'s `cacert.pem`. **Never turn off certificate checks.**
+- Certificate: the chain ends in the root "emSign Root CA - G1". Python's `certifi` list (which `requests` uses by default, as in GitHub Actions) includes it. Ubuntu 24.04's system list doesn't. The Claude cloud workspace forces the system list with `REQUESTS_CA_BUNDLE`, which causes "self-signed certificate in certificate chain". To test there, point `REQUESTS_CA_BUNDLE` at a file that joins `/root/.ccr/ca-bundle.crt` and `certifi`'s `cacert.pem`. The 28 Oct Actions run reached the site with no certificate error. **Never turn off certificate checks.**
 - eMudhra, which runs emSign, announced on 22 Oct 2026 that it's leaving the website-certificate business. The site's certificate runs out on 16 Dec 2026, so expect a new chain.
 - The parser in `collectors/lsgd_plan.py` passes on a made-up table in the layout above (14 districts, Total row, nested tables). It has still not been tested against the real HTML.
 
@@ -44,7 +44,7 @@ A citizen-run dashboard showing where Kerala's public money goes, built only fro
 
 ## Next steps (in order)
 
-1. Get GitHub Actions running (the owner chooses: public repository, higher budget, or wait for 1 Nov). Then run it by hand ("Run workflow") and check `data/status.json`. Also find a new source for local government plan spending.
+1. Find a new source for local government plan spending (see "Possible new source" above), or remove the LSGD collector.
 2. Choose hosting with the owner (Render static site, or GitHub Pages if the repository goes public).
 3. Use the daily KIIFB copies to add history-based flags, such as no payment change in 12 months.
 4. Add a district page ("My area") and a project page.
