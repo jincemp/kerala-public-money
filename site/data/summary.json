@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:54:19+00:00",
+ "generated_at": "2026-10-29T06:30:19+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,7 +55,7 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-10-28T19:54:13+00:00",
+  "collected_at": "2026-10-29T06:30:13+00:00",
   "project_count": 1157,
   "evaluating_count": 251,
   "total_approved_cr": 93100.86,
