@@ -1,11 +1,11 @@
 {
  "kiifb": {
-  "last_attempt": "2026-10-29T06:29:20+00:00",
-  "last_success": "2026-10-29T06:29:20+00:00",
+  "last_attempt": "2026-10-30T06:28:36+00:00",
+  "last_success": "2026-10-30T06:28:36+00:00",
   "last_error": null
  },
  "lsgd_plan": {
-  "last_attempt": "2026-10-29T06:30:13+00:00",
+  "last_attempt": "2026-10-30T06:29:29+00:00",
   "last_error": "RuntimeError: Only 0 districts found; the page may have changed"
  }
 }

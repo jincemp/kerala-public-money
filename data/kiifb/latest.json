@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-10-29T06:30:13+00:00",
+ "collected_at": "2026-10-30T06:29:29+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -5870,7 +5870,7 @@
    "name": "Trivandrum - Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 224014000.0,
-   "released_rs": 579375770.0,
+   "released_rs": 588897725.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -6594,7 +6594,7 @@
    "name": "Thrissur - Cluster 10",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 126568930.0,
-   "released_rs": 472437660.0,
+   "released_rs": 482384424.0,
    "status": "Project Approved",
    "districts": [
     "Thrissur"
@@ -14535,7 +14535,7 @@
    "name": "Construction of Uttara Bridge and Uttara Railway Over Bridge",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 159914302.0,
-   "released_rs": 94381615.0,
+   "released_rs": 104028058.0,
    "status": "Project Approved",
    "districts": [
     "Palakkad"
