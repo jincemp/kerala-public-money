@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-10-30T06:29:29+00:00",
+ "collected_at": "2026-10-31T06:19:08+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -1596,7 +1596,7 @@
    "name": "Laying distribution of Water Supply Schemes under KIIFB funding - WSS to Mattanur and Iritty Phase II",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 2697003000.0,
-   "released_rs": 2496278890.0,
+   "released_rs": 2795156344.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -1705,7 +1705,7 @@
    "name": "WSS to Ramanchady - Aligar in Malappuram District",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 925232458.15,
-   "released_rs": 636245855.0,
+   "released_rs": 671725627.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -4989,7 +4989,7 @@
    "name": "Development of Women and Child Hospital Thalasseri",
    "agency": "KITCO LTD",
    "approved_rs": 746441398.0,
-   "released_rs": 341103348.03,
+   "released_rs": 387318091.59,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -5870,7 +5870,7 @@
    "name": "Trivandrum - Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 224014000.0,
-   "released_rs": 588897725.0,
+   "released_rs": 601686890.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -6892,7 +6892,7 @@
    "name": "Thrissur, Malappuram Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 102832717.0,
-   "released_rs": 339534536.0,
+   "released_rs": 355152064.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -7105,7 +7105,7 @@
    "name": "Trivandrum, Kollam, Malappuram, Thrissur, Alapuzha",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 129239754.0,
-   "released_rs": 480402012.0,
+   "released_rs": 502371144.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -7472,7 +7472,7 @@
    "name": "Kasaragod Cluster - 21",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 149857069.0,
-   "released_rs": 235281402.0,
+   "released_rs": 244220823.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -7550,7 +7550,7 @@
    "name": "Alappuzha, Ernakulam, Kottayam and Idukki - Cluster 28",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 201569338.0,
-   "released_rs": 741896925.0,
+   "released_rs": 781715825.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam",
@@ -7834,7 +7834,7 @@
    "name": "Strengthening of Fish marketing Infrastructure in Kollam District Phase2",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 180355258.0,
-   "released_rs": 111183504.0,
+   "released_rs": 135291729.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -8193,7 +8193,7 @@
    "name": "Educational Infrastructure Works at Alappuzha District Phase-1",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 83826815.0,
-   "released_rs": 531473733.0,
+   "released_rs": 538543705.0,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -10964,7 +10964,7 @@
    "name": "Construction of Choolakkadavu Bridge Connecting Payyanur Municipality and Ramanthali Panchayath at Choolakkadavu in Kannur District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 279398482.0,
-   "released_rs": 113289674.0,
+   "released_rs": 125301112.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -13887,7 +13887,7 @@
    "name": "Improvements to Meppadi-Chooralmala Road in Wayanad District.",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 501581797.0,
-   "released_rs": 276296391.0,
+   "released_rs": 312875982.0,
    "status": "Project Approved",
    "districts": [
     "Wayanad"
@@ -14151,7 +14151,7 @@
    "name": "Development of Hill Highway SH 59 Improvements from Vellikulangara to Vettilappara bridge in Thrissur district",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 1246919384.0,
-   "released_rs": 703952316.0,
+   "released_rs": 764754609.0,
    "status": "Project Approved",
    "districts": [
     "Thrissur"
@@ -14283,7 +14283,7 @@
    "name": "Improvements of Hill Highway from, Peringammala - Vithura Koppam - Total length 9.450Km in Thiruvananthapuram District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 508096000.0,
-   "released_rs": 670443639.5,
+   "released_rs": 745866475.5,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -14667,7 +14667,7 @@
    "name": "PWD008-07: Construction of Kalikkadavu bridge across Chaitravahini puzha, Madakkal kadavu Bridge & Padanna Thekkekadavu Hanging bridge in Kasaragod District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 896955014.0,
-   "released_rs": 47810498.0,
+   "released_rs": 48810498.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -14763,7 +14763,7 @@
    "name": "Coastal Highway Reach 2  -  Kumarichantha to Pallithura in Thiruvananthapuram district (18.12km)",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 2550991321.16,
-   "released_rs": 13424504.0,
+   "released_rs": 14427748.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"

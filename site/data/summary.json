@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:29:33+00:00",
+ "generated_at": "2026-10-31T06:19:10+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,12 +55,12 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-10-30T06:29:29+00:00",
+  "collected_at": "2026-10-31T06:19:08+00:00",
   "project_count": 1157,
   "evaluating_count": 251,
   "total_approved_cr": 93100.86,
-  "total_released_cr": 40773.54,
-  "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
+  "total_released_cr": 40545.64,
+  "released_note": "Released totals leave out 282 projects where KIIFB's list shows more released than approved.",
   "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
   "pipeline": [
    {
@@ -75,12 +75,12 @@
    },
    {
     "label": "Money released",
-    "value": "₹40,774 cr",
-    "sub": "50% of their approved amount, to 638 projects"
+    "value": "₹40,546 cr",
+    "sub": "50% of their approved amount, to 637 projects"
    },
    {
     "label": "Mostly paid",
-    "value": "110",
+    "value": "109",
     "sub": "projects with 90% or more of their approved amount released"
    }
   ],
@@ -88,17 +88,17 @@
    "Kasaragod": {
     "count": 48,
     "approved_cr": 4189.41,
-    "released_cr": 497.33
+    "released_cr": 497.43
    },
    "Kannur": {
     "count": 114,
     "approved_cr": 10135.83,
-    "released_cr": 2788.21
+    "released_cr": 2544.41
    },
    "Wayanad": {
     "count": 28,
     "approved_cr": 1016.28,
-    "released_cr": 447.48
+    "released_cr": 451.14
    },
    "Kozhikode": {
     "count": 100,
@@ -108,7 +108,7 @@
    "Malappuram": {
     "count": 93,
     "approved_cr": 3745.9,
-    "released_cr": 1137.67
+    "released_cr": 1141.21
    },
    "Palakkad": {
     "count": 94,
@@ -118,7 +118,7 @@
    "Thrissur": {
     "count": 69,
     "approved_cr": 3675.5,
-    "released_cr": 872.56
+    "released_cr": 878.64
    },
    "Ernakulam": {
     "count": 77,
@@ -148,12 +148,12 @@
    "Kollam": {
     "count": 74,
     "approved_cr": 3455.26,
-    "released_cr": 1111.31
+    "released_cr": 1113.72
    },
    "Thiruvananthapuram": {
     "count": 144,
     "approved_cr": 18855.63,
-    "released_cr": 10101.15
+    "released_cr": 10101.25
    }
   },
   "multi_district": {
@@ -197,7 +197,7 @@
    },
    {
     "rule": "More money released than approved (possible data error on KIIFB's site)",
-    "count": 281,
+    "count": 282,
     "items": [
      {
       "name": "Construction of 10 bedded isolation wards in 140 LAC",
