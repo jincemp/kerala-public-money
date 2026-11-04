@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:17:00+00:00",
+ "generated_at": "2026-11-04T07:00:15+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,11 +55,11 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-11-03T07:16:55+00:00",
+  "collected_at": "2026-11-04T07:00:01+00:00",
   "project_count": 1157,
   "evaluating_count": 251,
   "total_approved_cr": 93100.9,
-  "total_released_cr": 40792.35,
+  "total_released_cr": 40808.22,
   "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
   "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
   "pipeline": [
@@ -75,8 +75,8 @@
    },
    {
     "label": "Money released",
-    "value": "₹40,792 cr",
-    "sub": "50% of their approved amount, to 638 projects"
+    "value": "₹40,808 cr",
+    "sub": "50% of their approved amount, to 640 projects"
    },
    {
     "label": "Mostly paid",
@@ -88,12 +88,12 @@
    "Kasaragod": {
     "count": 48,
     "approved_cr": 4189.41,
-    "released_cr": 497.43
+    "released_cr": 498.91
    },
    "Kannur": {
     "count": 114,
     "approved_cr": 10135.83,
-    "released_cr": 2789.41
+    "released_cr": 2791.73
    },
    "Wayanad": {
     "count": 28,
@@ -103,7 +103,7 @@
    "Kozhikode": {
     "count": 100,
     "approved_cr": 4243.16,
-    "released_cr": 965.44
+    "released_cr": 968.53
    },
    "Malappuram": {
     "count": 93,
@@ -128,12 +128,12 @@
    "Idukki": {
     "count": 24,
     "approved_cr": 1082.33,
-    "released_cr": 354.7
+    "released_cr": 355.08
    },
    "Kottayam": {
     "count": 43,
     "approved_cr": 2452.25,
-    "released_cr": 872.85
+    "released_cr": 875.24
    },
    "Alappuzha": {
     "count": 79,
@@ -143,7 +143,7 @@
    "Pathanamthitta": {
     "count": 39,
     "approved_cr": 1469.18,
-    "released_cr": 722.54
+    "released_cr": 726.16
    },
    "Kollam": {
     "count": 74,
@@ -153,7 +153,7 @@
    "Thiruvananthapuram": {
     "count": 144,
     "approved_cr": 18855.63,
-    "released_cr": 10101.25
+    "released_cr": 10102.0
    }
   },
   "multi_district": {

@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-03T07:16:55+00:00",
+ "collected_at": "2026-11-04T07:00:01+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -99,7 +99,7 @@
    "name": "Fencing - man-animal conflict in the forest boundary - Hanging Solar Power Fence",
    "agency": "STATE FOREST DEVELOPMENT AGENCY KERALA",
    "approved_rs": 1100116000.0,
-   "released_rs": 1184718623.36,
+   "released_rs": 1187718623.36,
    "status": "Project Approved",
    "districts": [
     "Palakkad",
@@ -139,7 +139,7 @@
    "name": "Mitigating Human-Wildlife Conflict Through Community Participation",
    "agency": "STATE FOREST DEVELOPMENT AGENCY KERALA",
    "approved_rs": 679500000.0,
-   "released_rs": 400500000.0,
+   "released_rs": 408000000.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -1427,7 +1427,7 @@
    "name": "Construction of Check Dam -cum Bridge across Palkulam Thodu and allied works near seminarypadi in ward 2 of Vazhathope Panchayat-General Civil Work",
    "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
    "approved_rs": 74400000.0,
-   "released_rs": 9097050.0,
+   "released_rs": 11223436.0,
    "status": "Project Approved",
    "districts": [
     "Idukki"
@@ -4856,7 +4856,7 @@
    "name": "Taluk Head Quarters Hospital, Mangalpady in Kasaragod District",
    "agency": "KITCO LTD",
    "approved_rs": 162840000.0,
-   "released_rs": 7450860.8,
+   "released_rs": 16671051.9,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -5314,7 +5314,7 @@
    "name": "Development of Specialty Hospital at Mattannur",
    "agency": "Kerala State Electricity Board Ltd",
    "approved_rs": 1004207317.0,
-   "released_rs": 337988352.0,
+   "released_rs": 361108920.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -5588,7 +5588,7 @@
    "name": "Construction of Medical college Teaching Hospital and allied Buildings - Phase II at Konni, Pathanamthitta",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 2183997714.21,
-   "released_rs": 1617940618.14,
+   "released_rs": 1620178510.14,
    "status": "Project Approved",
    "districts": [
     "Pathanamthitta"
@@ -7105,7 +7105,7 @@
    "name": "Trivandrum, Kollam, Malappuram, Thrissur, Alapuzha",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 129239754.0,
-   "released_rs": 502371144.0,
+   "released_rs": 480402012.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -7846,7 +7846,7 @@
    "name": "Procurement of Medical Equipment & Hospital Furniture for TH Adimali",
    "agency": "KERALA MEDICAL SERVICES CORPORATION LIMITED",
    "approved_rs": 8564681.0,
-   "released_rs": 2977270.0,
+   "released_rs": 4690206.0,
    "status": "Project Approved",
    "districts": [
     "Idukki"
@@ -8740,7 +8740,7 @@
    "name": "Idukki- Thiruvananthapuram Cluster Engg colleges",
    "agency": "KERALA STATE INFORMATION TECHNOLOGY INFRASTRUCTURE LTD",
    "approved_rs": 415962641.33,
-   "released_rs": 0.0,
+   "released_rs": 18431392.0,
    "status": "Project Approved",
    "districts": [
     "Idukki",
@@ -8923,7 +8923,7 @@
    "name": "Development of Taluk Hospital Koyilandi in Kozhikode District",
    "agency": "WAPCOS Limited",
    "approved_rs": 420778993.31,
-   "released_rs": 0.0,
+   "released_rs": 23725818.0,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
@@ -11806,7 +11806,7 @@
    "name": "KIIFB - Improvements to Achankovil - Plappally in Pathanamthitta District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 493626324.0,
-   "released_rs": 133348962.0,
+   "released_rs": 167304238.0,
    "status": "Project Approved",
    "districts": [
     "Pathanamthitta"
@@ -12817,7 +12817,7 @@
    "name": "Improvements to Kanjirappally - Manimala - Kulathoormoozhi - Karshaka Sauhruda Link Road in Kottayam District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 858198699.0,
-   "released_rs": 43084924.0,
+   "released_rs": 66896957.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
@@ -13899,7 +13899,7 @@
    "name": "IMPROVEMENTS  TO BADIADKA ? YETHADKA ? SOOLYAPADHAVU ROAD  KM 0/000 TO 19/828  IN   KASARAGOD DISTRICT",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 455765070.2,
-   "released_rs": 401923820.0,
+   "released_rs": 407532327.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -15458,7 +15458,7 @@
    "name": "Kuttiyadi Bypass",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 442443208.0,
-   "released_rs": 316006623.41,
+   "released_rs": 323247756.41,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
