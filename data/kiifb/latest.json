@@ -1,9 +1,9 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-04T07:00:01+00:00",
+ "collected_at": "2026-11-05T07:26:24+00:00",
  "amount_unit": "rupees",
- "project_count": 1408,
+ "project_count": 1407,
  "districts_checked": [
   "Thiruvananthapuram",
   "Kollam",
@@ -1113,7 +1113,7 @@
    "name": "Kuttanad Drinking Water Project - IInd Phase",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 3850138929.54,
-   "released_rs": 874594642.0,
+   "released_rs": 917759161.0,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -2055,7 +2055,7 @@
    "name": "Protecting the both banks of Cheruthoni River down stream of Cheruthoni old bridge in ward  no.10 of Vzhathoppu GP and ward No.11 of Mariyapuram GP-Cheruthoni-General Civil Work",
    "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
    "approved_rs": 53700000.0,
-   "released_rs": 40972882.0,
+   "released_rs": 53186873.0,
    "status": "Project Approved",
    "districts": [
     "Idukki"
@@ -5624,7 +5624,7 @@
    "name": "Development of District Hospital Palakkad",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 988941419.0,
-   "released_rs": 489033348.0,
+   "released_rs": 540607991.0,
    "status": "Project Approved",
    "districts": [
     "Palakkad"
@@ -6582,7 +6582,7 @@
    "name": "Malappuram Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 159273525.0,
-   "released_rs": 247691568.0,
+   "released_rs": 268838840.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -11336,7 +11336,7 @@
    "name": "Hill Highway - 2nd Phase Kalpetta Constituency Pachilakkad-Kainatty-Kalpetta Bypass-Meppadi-Chooralmala Arunappuzha Improvements to Mananthavady-Kalpetta Road from 24/600 to 30/800, Kalpetta Bypass Road",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 637810000.0,
-   "released_rs": 415179982.0,
+   "released_rs": 377687493.0,
    "status": "Project Approved",
    "districts": [
     "Wayanad"
@@ -11889,7 +11889,7 @@
    "department": "Public Works Department",
    "name": "KIIFB-Hill Highway-SH 59  Improvements to Pattikad-Vilanganur-Mannamangalam-Pulikanni-Vellikulangara-Vettilapara Road  in Thrissur district-Phase II from ch0/000 to 5/300",
    "agency": "KERALA ROAD FUND BOARD",
-   "approved_rs": 213720000.0,
+   "approved_rs": 218829649.0,
    "released_rs": 196090151.0,
    "status": "Project Approved",
    "districts": [
@@ -12070,7 +12070,7 @@
    "name": "KIIFB 2016-17 Improvements to Hosdurg-Panathur road by providing BM and BC from 24/000 to 42/000 in Kasargode District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 620128715.59,
-   "released_rs": 431167289.0,
+   "released_rs": 452404838.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -15571,18 +15571,6 @@
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
-   ]
-  },
-  {
-   "id": "g3td6wj0qe5v",
-   "department": "Public Works Department",
-   "name": "Vallapuzha ROB",
-   "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
-   "approved_rs": 232841801.54,
-   "released_rs": 12588164.0,
-   "status": "Project Approved",
-   "districts": [
-    "Palakkad"
    ]
   },
   {
