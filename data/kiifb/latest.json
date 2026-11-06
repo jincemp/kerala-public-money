@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-05T07:26:24+00:00",
+ "collected_at": "2026-11-06T07:26:31+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -2164,7 +2164,7 @@
    "department": "Water Resources Department",
    "name": "Augmentation of Water Supply Scheme to Kollam Corporation Phase II",
    "agency": "KERALA WATER AUTHORITY",
-   "approved_rs": 2350000000.0,
+   "approved_rs": 2570600602.0,
    "released_rs": 1848237032.99,
    "status": "Project Approved",
    "districts": [
@@ -3320,7 +3320,7 @@
    "name": "Detailed Project Report for Procurement of laboratory Equipment",
    "agency": "COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY",
    "approved_rs": 1422400000.0,
-   "released_rs": 823749376.35,
+   "released_rs": 855609376.35,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -4309,7 +4309,7 @@
    "name": "Punalur Taluk Hospital- Construction of New Block and Augmenting Basic Infrastructure",
    "agency": "INKEL LIMITED",
    "approved_rs": 708995343.0,
-   "released_rs": 652346209.64,
+   "released_rs": 701609110.64,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -8995,7 +8995,7 @@
    "name": "Development of District Hospital ,Chengannur in  Alappuzha District",
    "agency": "WAPCOS Limited",
    "approved_rs": 757484007.0,
-   "released_rs": 519180568.98,
+   "released_rs": 593634777.98,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -11336,7 +11336,7 @@
    "name": "Hill Highway - 2nd Phase Kalpetta Constituency Pachilakkad-Kainatty-Kalpetta Bypass-Meppadi-Chooralmala Arunappuzha Improvements to Mananthavady-Kalpetta Road from 24/600 to 30/800, Kalpetta Bypass Road",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 637810000.0,
-   "released_rs": 377687493.0,
+   "released_rs": 415179982.0,
    "status": "Project Approved",
    "districts": [
     "Wayanad"
@@ -13875,7 +13875,7 @@
    "name": "Improvements to Amaravila - Ottasekharamangalam road by providing 50mm DBM & 30mm BC between Km 0/000 to 12/200",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 358150861.0,
-   "released_rs": 568939108.0,
+   "released_rs": 694094496.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
