@@ -1,9 +1,9 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-06T07:26:31+00:00",
+ "collected_at": "2026-11-07T06:38:27+00:00",
  "amount_unit": "rupees",
- "project_count": 1407,
+ "project_count": 1410,
  "districts_checked": [
   "Thiruvananthapuram",
   "Kollam",
@@ -21,6 +21,36 @@
   "Kasaragod"
  ],
  "projects": [
+  {
+   "id": "e5ve5vc7xa9z",
+   "department": "Local Self Government Department",
+   "name": "Municipality Office Building for Ramanattukara Municipality",
+   "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
+   "approved_rs": 154813856.0,
+   "released_rs": 136373835.72,
+   "status": "Project Approved",
+   "districts": []
+  },
+  {
+   "id": "e5ve5vg3tj0q",
+   "department": "Local Self Government Department",
+   "name": "Municipal Office Building for Pandalam and Feroke Municipalities",
+   "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
+   "approved_rs": 195972667.0,
+   "released_rs": 0.0,
+   "status": "Project Approved",
+   "districts": []
+  },
+  {
+   "id": "e5ve5vh2sa9z",
+   "department": "Local Self Government Department",
+   "name": "Municipal Office Building for Pandalam and Feroke Municipalities - Deleted",
+   "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
+   "approved_rs": 0.0,
+   "released_rs": 0.0,
+   "status": "Project Under Evaluation",
+   "districts": []
+  },
   {
    "id": "f4u",
    "department": "Forest & Wild Life Department",
@@ -1149,7 +1179,7 @@
    "name": "THALASSERI HERITAGE PROJECT - PHASE II",
    "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
    "approved_rs": 362854878.0,
-   "released_rs": 218719464.0,
+   "released_rs": 230025756.0,
    "status": "Project Approved",
    "districts": [
     "Kannur",
@@ -6391,7 +6421,7 @@
    "name": "Malappuram Cluster - 22",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 156573188.0,
-   "released_rs": 641636075.0,
+   "released_rs": 660611290.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -7496,7 +7526,7 @@
    "name": "Malappuram Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 233448780.0,
-   "released_rs": 605201896.0,
+   "released_rs": 626368500.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -9372,7 +9402,7 @@
    "name": "Modern Crematorium",
    "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
    "approved_rs": 292770174.0,
-   "released_rs": 530632680.0,
+   "released_rs": 587630235.0,
    "status": "Project Approved",
    "districts": [
     "Kannur",
