@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-10T07:45:56+00:00",
+ "collected_at": "2026-11-11T07:11:19+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -29,7 +29,9 @@
    "approved_rs": 823825686.0,
    "released_rs": 727385383.1,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3t",
@@ -51,7 +53,9 @@
    "approved_rs": 84143000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "j0q",
@@ -61,7 +65,9 @@
    "approved_rs": 33293583.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9z",
@@ -71,7 +77,9 @@
    "approved_rs": 10200000.0,
    "released_rs": 10200000.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8y",
@@ -81,7 +89,9 @@
    "approved_rs": 15891536.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6w",
@@ -107,7 +117,8 @@
    "districts": [
     "Idukki",
     "Kottayam",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -118,7 +129,9 @@
    "approved_rs": 50218090.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3t",
@@ -128,7 +141,9 @@
    "approved_rs": 679500000.0,
    "released_rs": 408000000.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yh2s",
@@ -138,7 +153,9 @@
    "approved_rs": 90000000.0,
    "released_rs": 13009500.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yi1r",
@@ -148,7 +165,9 @@
    "approved_rs": 72745000.0,
    "released_rs": 70157030.5,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ye5vf4u",
@@ -172,7 +191,8 @@
    "released_rs": 311181820.0,
    "status": "Project Approved",
    "districts": [
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -365,7 +385,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3tj0q",
@@ -375,7 +397,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yh2sa9z",
@@ -501,7 +525,8 @@
     "Thrissur",
     "Kottayam",
     "Alappuzha",
-    "Pathanamthitta"
+    "Pathanamthitta",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -536,7 +561,9 @@
    "approved_rs": 671679937.0,
    "released_rs": 129919674.48,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yi1rh2s",
@@ -642,7 +669,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xa9ze5v",
@@ -762,7 +791,9 @@
    "approved_rs": 2069626835.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wb8yh2s",
@@ -976,7 +1007,9 @@
    "approved_rs": 198676127.68,
    "released_rs": 172053053.32,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6we5va9z",
@@ -1070,7 +1103,9 @@
    "approved_rs": 778600000.0,
    "released_rs": 1376289950.24,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ub8y",
@@ -1092,7 +1127,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ud6w",
@@ -1102,7 +1139,9 @@
    "approved_rs": 400784013.0,
    "released_rs": 91360177.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4uf4u",
@@ -1186,7 +1225,9 @@
    "approved_rs": 965343585.0,
    "released_rs": 406505328.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wg3tc7x",
@@ -1460,7 +1501,9 @@
    "approved_rs": 537819571.0,
    "released_rs": 974296648.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wi1rh2s",
@@ -1714,7 +1757,9 @@
    "approved_rs": 932268571.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vb8yb8y",
@@ -2024,7 +2069,9 @@
    "approved_rs": 267333321.0,
    "released_rs": 517318458.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vd6w",
@@ -2180,7 +2227,9 @@
    "approved_rs": 526800000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zg3te5v",
@@ -2202,7 +2251,9 @@
    "approved_rs": 1686802675.0,
    "released_rs": 1150054335.66,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zg3tg3t",
@@ -2271,7 +2322,9 @@
    "approved_rs": 3609125000.0,
    "released_rs": 462199300.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zh2se5v",
@@ -2332,7 +2385,8 @@
    "status": "Project Approved",
    "districts": [
     "Thrissur",
-    "Kottayam"
+    "Kottayam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -2343,7 +2397,9 @@
    "approved_rs": 846100000.0,
    "released_rs": 164673740.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zi1ra9z",
@@ -2423,7 +2479,9 @@
    "approved_rs": 2385166986.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zi1rh2s",
@@ -2445,7 +2503,9 @@
    "approved_rs": 165698008.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zi1rj0q",
@@ -2567,7 +2627,9 @@
    "approved_rs": 139983685.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8ya9zj0qj0q",
@@ -2687,7 +2749,9 @@
    "approved_rs": 969999900.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8yb8yb8y",
@@ -2781,7 +2845,9 @@
    "approved_rs": 281999600.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8yb8yj0q",
@@ -3064,7 +3130,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8ye5ve5v",
@@ -3086,7 +3154,9 @@
    "approved_rs": 263914368.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8ye5vg3t",
@@ -3096,7 +3166,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yb8ye5vh2s",
@@ -3118,7 +3190,9 @@
    "approved_rs": 3011704061.0,
    "released_rs": 6023408122.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wd6wd6w",
@@ -3140,7 +3214,9 @@
    "approved_rs": 487184358.0,
    "released_rs": 32746498.82,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wd6wf4u",
@@ -3162,7 +3238,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wd6wh2s",
@@ -3316,7 +3394,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wf4ud6w",
@@ -3350,7 +3430,9 @@
    "approved_rs": 299584825.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wf4ug3t",
@@ -3408,7 +3490,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wg3tb8y",
@@ -3442,7 +3526,9 @@
    "approved_rs": 246375316.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wg3te5v",
@@ -3464,7 +3550,9 @@
    "approved_rs": 313655909.0,
    "released_rs": 107670627.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wg3tg3t",
@@ -3571,7 +3659,9 @@
    "approved_rs": 561847660.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yd6wh2sg3t",
@@ -3617,7 +3707,9 @@
    "approved_rs": 141520107.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yf4ug3ti1r",
@@ -3640,7 +3732,8 @@
    "released_rs": 539116581.96,
    "status": "Project Approved",
    "districts": [
-    "Pathanamthitta"
+    "Pathanamthitta",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -3723,7 +3816,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yf4uh2sh2s",
@@ -3908,7 +4003,8 @@
    "released_rs": 220808764.06,
    "status": "Project Approved",
    "districts": [
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -3919,7 +4015,9 @@
    "approved_rs": 47127408.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yf4uj0qf4u",
@@ -4028,7 +4126,9 @@
    "approved_rs": 255899889.0,
    "released_rs": 17859132.76,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3ta9ze5v",
@@ -4036,12 +4136,13 @@
    "name": "TRIVANDRUM-KOLLAM-PATHANAMTHITTA-KOTTAYAM Cluster Phase-7",
    "agency": "INKEL LIMITED",
    "approved_rs": 120000000.0,
-   "released_rs": 677877312.0,
+   "released_rs": 694313340.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -4149,7 +4250,9 @@
    "approved_rs": 1943291990.0,
    "released_rs": 383553914.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3tb8yf4u",
@@ -4270,7 +4373,9 @@
    "approved_rs": 60000000.0,
    "released_rs": 55845267.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3tc7xh2s",
@@ -4292,7 +4397,9 @@
    "approved_rs": 127125302.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3tc7xj0q",
@@ -4314,7 +4421,9 @@
    "approved_rs": 228601253.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3td6wc7x",
@@ -4360,7 +4469,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3td6wg3t",
@@ -4418,7 +4529,9 @@
    "approved_rs": 437520439.0,
    "released_rs": 347544031.02,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3te5vb8y",
@@ -4623,7 +4736,9 @@
    "approved_rs": 1081790034.0,
    "released_rs": 327661193.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3tg3ta9z",
@@ -4731,7 +4846,9 @@
    "approved_rs": 196435620.0,
    "released_rs": 160479953.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3th2sb8y",
@@ -4898,7 +5015,9 @@
    "approved_rs": 386067490.0,
    "released_rs": 304140774.36,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yg3ti1rg3t",
@@ -5077,7 +5196,9 @@
    "approved_rs": 385850643.0,
    "released_rs": 72607653.97,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yh2sa9zb8y",
@@ -5135,7 +5256,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "b8yh2sa9zg3t",
@@ -5253,7 +5376,9 @@
    "approved_rs": 459526385.0,
    "released_rs": 34485051.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xb8yd6wb8y",
@@ -5453,7 +5578,9 @@
    "approved_rs": 332578591.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xb8yi1re5v",
@@ -5607,7 +5734,9 @@
    "approved_rs": 876783660.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xb8yj0qi1r",
@@ -5642,7 +5771,9 @@
    "approved_rs": 112378811.0,
    "released_rs": 24659102.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xc7xa9zb8y",
@@ -5664,7 +5795,9 @@
    "approved_rs": 814549027.0,
    "released_rs": 37034300.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xc7xa9zd6w",
@@ -5739,7 +5872,9 @@
    "approved_rs": 224014000.0,
    "released_rs": 601686890.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6we5vg3t",
@@ -5763,7 +5898,8 @@
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
    "districts": [
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -5896,7 +6032,9 @@
    "approved_rs": 231170350.0,
    "released_rs": 843129318.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wf4uj0q",
@@ -5994,7 +6132,9 @@
    "approved_rs": 150000000.0,
    "released_rs": 825028710.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wg3th2s",
@@ -6004,7 +6144,9 @@
    "approved_rs": 185381387.0,
    "released_rs": 687749916.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wg3ti1r",
@@ -6104,7 +6246,9 @@
    "approved_rs": 165930218.0,
    "released_rs": 412013240.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wh2sg3t",
@@ -6164,7 +6308,8 @@
    "released_rs": 238880649.0,
    "status": "Project Approved",
    "districts": [
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6224,7 +6369,9 @@
    "approved_rs": 448595000.0,
    "released_rs": 4351637052.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wi1rg3t",
@@ -6324,7 +6471,8 @@
    "status": "Project Approved",
    "districts": [
     "Kozhikode",
-    "Kottayam"
+    "Kottayam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6359,7 +6507,9 @@
    "approved_rs": 87900000.0,
    "released_rs": 405105195.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xd6wj0qi1r",
@@ -6387,7 +6537,8 @@
     "Palakkad",
     "Thrissur",
     "Idukki",
-    "Kottayam"
+    "Kottayam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6470,7 +6621,9 @@
    "approved_rs": 76270000.0,
    "released_rs": 76040023.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5va9zi1r",
@@ -6505,7 +6658,8 @@
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
    "districts": [
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6540,7 +6694,7 @@
    "name": "Thrissur - Wayanad Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 233486448.0,
-   "released_rs": 583614144.0,
+   "released_rs": 652361682.0,
    "status": "Project Approved",
    "districts": [
     "Wayanad",
@@ -6555,7 +6709,9 @@
    "approved_rs": 172500000.0,
    "released_rs": 290308671.2,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vb8yf4u",
@@ -6565,7 +6721,9 @@
    "approved_rs": 52900000.0,
    "released_rs": 64670394.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vb8yg3t",
@@ -6699,7 +6857,8 @@
    "status": "Project Approved",
    "districts": [
     "Ernakulam",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6738,7 +6897,8 @@
    "districts": [
     "Malappuram",
     "Thrissur",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6952,7 +7112,8 @@
     "Thrissur",
     "Ernakulam",
     "Alappuzha",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -6987,7 +7148,9 @@
    "approved_rs": 150000000.0,
    "released_rs": 474503154.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vf4ub8y",
@@ -7014,7 +7177,8 @@
     "Kannur",
     "Kozhikode",
     "Malappuram",
-    "Palakkad"
+    "Palakkad",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7112,7 +7276,9 @@
    "approved_rs": 4935000000.0,
    "released_rs": 4564948119.93,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vg3tb8y",
@@ -7134,7 +7300,9 @@
    "approved_rs": 151258080.0,
    "released_rs": 328418523.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vg3td6w",
@@ -7195,7 +7363,9 @@
    "approved_rs": 156822938.0,
    "released_rs": 240358536.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vg3ti1r",
@@ -7292,7 +7462,9 @@
    "approved_rs": 79944612.0,
    "released_rs": 159205874.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "c7xe5vh2sg3t",
@@ -7368,7 +7540,8 @@
    "status": "Project Under Evaluation",
    "districts": [
     "Alappuzha",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7377,7 +7550,7 @@
    "name": "Alappuzha, Ernakulam, Kottayam and Idukki - Cluster 28",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 201569338.0,
-   "released_rs": 781715825.0,
+   "released_rs": 822164299.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam",
@@ -7498,7 +7671,8 @@
     "Palakkad",
     "Alappuzha",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7510,7 +7684,8 @@
    "released_rs": 211332780.0,
    "status": "Project Approved",
    "districts": [
-    "Alappuzha"
+    "Alappuzha",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7619,7 +7794,9 @@
    "approved_rs": 3627500.0,
    "released_rs": 725500.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4uf4ue5v",
@@ -7635,7 +7812,8 @@
     "Malappuram",
     "Ernakulam",
     "Alappuzha",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7682,7 +7860,9 @@
    "approved_rs": 882000000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ug3tb8y",
@@ -7728,7 +7908,9 @@
    "approved_rs": 207810743.0,
    "released_rs": 105274375.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ug3tf4u",
@@ -7775,7 +7957,8 @@
     "Kottayam",
     "Alappuzha",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7786,7 +7969,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ug3tj0q",
@@ -7798,7 +7983,8 @@
    "status": "Project Approved",
    "districts": [
     "Alappuzha",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7826,7 +8012,8 @@
     "Kasaragod",
     "Ernakulam",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7849,7 +8036,9 @@
    "approved_rs": 46559811.0,
    "released_rs": 15585920.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4uh2se5v",
@@ -7871,7 +8060,9 @@
    "approved_rs": 1941360000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4uh2sg3t",
@@ -7895,7 +8086,8 @@
    "status": "Project Approved",
    "districts": [
     "Alappuzha",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -7906,7 +8098,9 @@
    "approved_rs": 210032231.0,
    "released_rs": 440446062.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4uh2sj0q",
@@ -7940,7 +8134,9 @@
    "approved_rs": 40188467.0,
    "released_rs": 184833160.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wf4ui1rc7x",
@@ -8051,7 +8247,8 @@
     "Kasaragod",
     "Kannur",
     "Thrissur",
-    "Alappuzha"
+    "Alappuzha",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -8064,7 +8261,8 @@
    "status": "Project Approved",
    "districts": [
     "Thrissur",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -8244,7 +8442,9 @@
    "approved_rs": 89994397.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wg3ta9zj0q",
@@ -8278,7 +8478,9 @@
    "approved_rs": 9354686.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "d6wg3tb8yc7x",
@@ -8339,7 +8541,8 @@
    "districts": [
     "Thrissur",
     "Alappuzha",
-    "Pathanamthitta"
+    "Pathanamthitta",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -8395,7 +8598,9 @@
    "approved_rs": 147500000.0,
    "released_rs": 717156300.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xa9zb8y",
@@ -8429,7 +8634,9 @@
    "approved_rs": 15167576631.54,
    "released_rs": 7159073507.11,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xa9ze5v",
@@ -8511,7 +8718,9 @@
    "approved_rs": 585791650.0,
    "released_rs": 1066084056.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xb8yb8y",
@@ -8521,7 +8730,9 @@
    "approved_rs": 1373549234.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xb8yc7x",
@@ -8532,7 +8743,8 @@
    "released_rs": 18431392.0,
    "status": "Project Approved",
    "districts": [
-    "Idukki"
+    "Idukki",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -8568,7 +8780,9 @@
    "approved_rs": 1000000000.0,
    "released_rs": 770413065.05,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xb8yg3t",
@@ -8590,7 +8804,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xb8yi1r",
@@ -8733,7 +8949,9 @@
    "approved_rs": 913807128.91,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xd6wd6w",
@@ -8743,7 +8961,9 @@
    "approved_rs": 375000000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xd6we5v",
@@ -8801,7 +9021,9 @@
    "approved_rs": 1175065000.0,
    "released_rs": 9731200.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vc7xd6wj0q",
@@ -8921,7 +9143,9 @@
    "approved_rs": 89800000.0,
    "released_rs": 265706931.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vd6wj0qa9z",
@@ -8931,7 +9155,9 @@
    "approved_rs": 2039213539.0,
    "released_rs": 1906058975.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vd6wj0qb8y",
@@ -9061,7 +9287,9 @@
    "approved_rs": 1000000000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5va9zd6w",
@@ -9228,7 +9456,8 @@
    "status": "Project Approved",
    "districts": [
     "Palakkad",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -9251,7 +9480,9 @@
    "approved_rs": 169564900.0,
    "released_rs": 139121294.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vb8yj0q",
@@ -9298,7 +9529,8 @@
     "Kottayam",
     "Alappuzha",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -9309,7 +9541,9 @@
    "approved_rs": 221395810.0,
    "released_rs": 156464469.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vc7xe5v",
@@ -9368,7 +9602,9 @@
    "approved_rs": 130536000.0,
    "released_rs": 12502999.92,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vc7xj0q",
@@ -9414,7 +9650,9 @@
    "approved_rs": 300594000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vd6we5v",
@@ -9424,7 +9662,9 @@
    "approved_rs": 129490028.65,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vd6wg3t",
@@ -9449,7 +9689,9 @@
    "approved_rs": 2092000000.0,
    "released_rs": 155386084.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vd6wi1r",
@@ -9459,7 +9701,9 @@
    "approved_rs": 883837048.0,
    "released_rs": 864505119.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vd6wj0q",
@@ -9494,7 +9738,8 @@
    "released_rs": 99934036.0,
    "status": "Project Approved",
    "districts": [
-    "Kozhikode"
+    "Kozhikode",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -9505,7 +9750,9 @@
    "approved_rs": 280007360.0,
    "released_rs": 20918020.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5ve5vf4u",
@@ -9541,7 +9788,9 @@
    "approved_rs": 890000000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5ve5vj0q",
@@ -9599,7 +9848,9 @@
    "approved_rs": 249837159.46,
    "released_rs": 94005098.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vf4ue5v",
@@ -9733,7 +9984,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vg3tg3t",
@@ -9755,7 +10008,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vg3tj0q",
@@ -9827,7 +10082,9 @@
    "approved_rs": 1057286000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vh2sf4u",
@@ -9837,7 +10094,9 @@
    "approved_rs": 100139910.41,
    "released_rs": 563428104.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vh2sg3t",
@@ -9847,7 +10106,9 @@
    "approved_rs": 1242961654.0,
    "released_rs": 127319614.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5ve5vh2sh2s",
@@ -9860,7 +10121,8 @@
    "districts": [
     "Kannur",
     "Idukki",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -10198,7 +10460,9 @@
    "approved_rs": 323400000.0,
    "released_rs": 584728052.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vi1rh2sg3t",
@@ -10292,7 +10556,9 @@
    "approved_rs": 357590368.0,
    "released_rs": 317302667.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "e5vi1ri1rh2s",
@@ -10952,7 +11218,9 @@
    "approved_rs": 188890727.0,
    "released_rs": 251740452.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ua9zf4uf4u",
@@ -10962,7 +11230,9 @@
    "approved_rs": 246855860.0,
    "released_rs": 224810534.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ua9zf4ug3t",
@@ -11008,7 +11278,9 @@
    "approved_rs": 151684236.03,
    "released_rs": 97745188.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ua9zg3ta9z",
@@ -11114,7 +11386,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xf4uj0q",
@@ -11148,7 +11422,9 @@
    "approved_rs": 250298561.0,
    "released_rs": 78534318.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xg3tc7x",
@@ -11206,7 +11482,9 @@
    "approved_rs": 137500000.0,
    "released_rs": 129755545.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xg3tj0q",
@@ -11252,7 +11530,9 @@
    "approved_rs": 529944000.0,
    "released_rs": 5482264.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xh2sd6w",
@@ -11262,7 +11542,9 @@
    "approved_rs": 1337982818.0,
    "released_rs": 1183244120.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xh2se5v",
@@ -11478,7 +11760,9 @@
    "approved_rs": 62383998.0,
    "released_rs": 4641030.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uc7xj0qf4u",
@@ -11692,7 +11976,9 @@
    "approved_rs": 496900000.0,
    "released_rs": 444926808.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ud6wb8yg3t",
@@ -12327,7 +12613,9 @@
    "approved_rs": 306552853.0,
    "released_rs": 289287187.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ud6wi1ra9z",
@@ -12373,7 +12661,9 @@
    "approved_rs": 160077748.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ud6wi1re5v",
@@ -12505,7 +12795,9 @@
    "approved_rs": 244582595.0,
    "released_rs": 142941329.17,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ud6wj0qi1r",
@@ -12539,7 +12831,9 @@
    "approved_rs": 475360468.0,
    "released_rs": 924545742.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5va9zb8y",
@@ -12658,7 +12952,9 @@
    "approved_rs": 1443753310.0,
    "released_rs": 415764552.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vb8yc7x",
@@ -12668,7 +12964,9 @@
    "approved_rs": 1624600000.0,
    "released_rs": 1999544092.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vb8ye5v",
@@ -12810,7 +13108,9 @@
    "approved_rs": 1467379080.0,
    "released_rs": 1442084714.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vc7xi1r",
@@ -12856,7 +13156,9 @@
    "approved_rs": 187486216.31,
    "released_rs": 47438693.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vd6wc7x",
@@ -13215,7 +13517,9 @@
    "approved_rs": 197582238.9,
    "released_rs": 79876650.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vh2sa9z",
@@ -13357,7 +13661,9 @@
    "approved_rs": 547100000.0,
    "released_rs": 1580780835.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vi1rd6w",
@@ -13367,7 +13673,9 @@
    "approved_rs": 325685959.1,
    "released_rs": 6337458.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4ue5vi1re5v",
@@ -13569,7 +13877,9 @@
    "approved_rs": 358150861.0,
    "released_rs": 694094496.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ua9ze5v",
@@ -13687,7 +13997,9 @@
    "approved_rs": 396324327.0,
    "released_rs": 326855872.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ub8yg3t",
@@ -13745,7 +14057,9 @@
    "approved_rs": 12936865967.0,
    "released_rs": 9143804932.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4uc7xd6w",
@@ -13755,7 +14069,9 @@
    "approved_rs": 74000000.0,
    "released_rs": 1591184.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4uc7xe5v",
@@ -13849,7 +14165,9 @@
    "approved_rs": 1605509343.24,
    "released_rs": 1308165503.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ud6wc7x",
@@ -13967,7 +14285,9 @@
    "approved_rs": 508096000.0,
    "released_rs": 745866475.5,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ue5vd6w",
@@ -14001,7 +14321,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ue5vh2s",
@@ -14131,7 +14453,9 @@
    "approved_rs": 589321449.0,
    "released_rs": 19712460.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "f4uf4ug3tb8y",
@@ -14333,7 +14657,9 @@
    "approved_rs": 728774356.25,
    "released_rs": 7664575.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wb8yc7x",
@@ -14439,7 +14765,9 @@
    "approved_rs": 2550991321.16,
    "released_rs": 14427748.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wc7xd6w",
@@ -14570,7 +14898,9 @@
    "approved_rs": 67690100000.0,
    "released_rs": 55807380071.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wd6wf4u",
@@ -14628,7 +14958,9 @@
    "approved_rs": 368850000.0,
    "released_rs": 224153123.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6we5va9z",
@@ -15080,7 +15412,9 @@
    "approved_rs": 952803079.0,
    "released_rs": 5000000.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wi1ra9z",
@@ -15162,7 +15496,9 @@
    "approved_rs": 539132000.0,
    "released_rs": 5000000.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wi1rh2s",
@@ -15185,7 +15521,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wi1rj0q",
@@ -15231,7 +15569,9 @@
    "approved_rs": 75321400.0,
    "released_rs": 5128986.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wj0qf4u",
@@ -15241,7 +15581,9 @@
    "approved_rs": 10470931000.0,
    "released_rs": 6794082026.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3td6wj0qg3t",
@@ -15625,7 +15967,9 @@
    "approved_rs": 337862210.0,
    "released_rs": 139374894.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3te5vd6wf4u",
@@ -15707,7 +16051,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3te5ve5vd6w",
@@ -15897,7 +16243,9 @@
    "approved_rs": 104776294.0,
    "released_rs": 4902360.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3te5vg3te5v",
@@ -15919,7 +16267,9 @@
    "approved_rs": 200612573.0,
    "released_rs": 167536150.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3te5vg3tg3t",
@@ -16241,7 +16591,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3te5vj0qi1r",
@@ -16491,7 +16843,9 @@
    "approved_rs": 107924996.4,
    "released_rs": 5164354.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3tf4uc7xa9z",
@@ -16537,7 +16891,9 @@
    "approved_rs": 319777000.0,
    "released_rs": 5099626.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3tf4uc7xg3t",
@@ -16559,7 +16915,9 @@
    "approved_rs": 8946594.0,
    "released_rs": 8464211.91,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3tf4uc7xi1r",
@@ -16569,7 +16927,9 @@
    "approved_rs": 359128662.67,
    "released_rs": 226463060.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3tf4uc7xj0q",
@@ -16699,7 +17059,9 @@
    "approved_rs": 1530000000.0,
    "released_rs": 0.0,
    "status": "Project Approved",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "g3tj0qf4uj0q",
@@ -16768,7 +17130,8 @@
     "Kottayam",
     "Alappuzha",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -16792,7 +17155,8 @@
     "Kottayam",
     "Alappuzha",
     "Pathanamthitta",
-    "Kollam"
+    "Kollam",
+    "Thiruvananthapuram"
    ]
   },
   {
@@ -16803,7 +17167,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "h2sb8yb8yc7x",
@@ -16813,7 +17179,9 @@
    "approved_rs": 0.0,
    "released_rs": 0.0,
    "status": "Project Under Evaluation",
-   "districts": []
+   "districts": [
+    "Thiruvananthapuram"
+   ]
   },
   {
    "id": "h2sb8yi1rh2s",

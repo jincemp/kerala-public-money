@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:46:07+00:00",
+ "generated_at": "2026-11-11T07:11:21+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,7 +55,7 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-11-10T07:45:56+00:00",
+  "collected_at": "2026-11-11T07:11:19+00:00",
   "project_count": 1156,
   "evaluating_count": 251,
   "total_approved_cr": 93100.19,
@@ -101,9 +101,9 @@
     "released_cr": 451.14
    },
    "Kozhikode": {
-    "count": 101,
-    "approved_cr": 4263.99,
-    "released_cr": 978.53
+    "count": 100,
+    "approved_cr": 4243.16,
+    "released_cr": 968.53
    },
    "Malappuram": {
     "count": 93,
@@ -126,9 +126,9 @@
     "released_cr": 4243.54
    },
    "Idukki": {
-    "count": 25,
-    "approved_cr": 1123.93,
-    "released_cr": 358.14
+    "count": 24,
+    "approved_cr": 1082.33,
+    "released_cr": 356.3
    },
    "Kottayam": {
     "count": 43,
@@ -136,29 +136,29 @@
     "released_cr": 875.24
    },
    "Alappuzha": {
-    "count": 80,
-    "approved_cr": 5045.57,
+    "count": 79,
+    "approved_cr": 5035.57,
     "released_cr": 1797.73
    },
    "Pathanamthitta": {
-    "count": 40,
-    "approved_cr": 1489.57,
+    "count": 39,
+    "approved_cr": 1469.18,
     "released_cr": 726.16
    },
    "Kollam": {
-    "count": 77,
-    "approved_cr": 3516.94,
+    "count": 74,
+    "approved_cr": 3477.32,
     "released_cr": 1118.65
    },
    "Thiruvananthapuram": {
-    "count": 0,
-    "approved_cr": 0.0,
-    "released_cr": 0.0
+    "count": 144,
+    "approved_cr": 18855.63,
+    "released_cr": 10102.0
    }
   },
   "multi_district": {
-   "count": 268,
-   "approved_cr": 37509.91
+   "count": 131,
+   "approved_cr": 18786.72
   },
   "flag_groups": [
    {
@@ -202,7 +202,7 @@
      {
       "name": "Construction of 10 bedded isolation wards in 140 LAC",
       "agency": "KERALA MEDICAL SERVICES CORPORATION LIMITED",
-      "district": "Kasaragod, Kannur, Wayanad, Kozhikode, Malappuram, Palakkad, Thrissur, Ernakulam, Idukki, Kottayam, Alappuzha, Pathanamthitta, Kollam",
+      "district": "Kasaragod, Kannur, Wayanad, Kozhikode, Malappuram, Palakkad, Thrissur, Ernakulam, Idukki, Kottayam, Alappuzha, Pathanamthitta, Kollam, Thiruvananthapuram",
       "approved_cr": 236.3,
       "released_cr": 15805.41
      },
