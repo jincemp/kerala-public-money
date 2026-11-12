@@ -1,11 +1,11 @@
 {
  "kiifb": {
-  "last_attempt": "2026-11-11T07:10:27+00:00",
-  "last_success": "2026-11-11T07:10:27+00:00",
+  "last_attempt": "2026-11-12T07:44:16+00:00",
+  "last_success": "2026-11-12T07:44:16+00:00",
   "last_error": null
  },
  "lsgd_plan": {
-  "last_attempt": "2026-11-11T07:11:19+00:00",
+  "last_attempt": "2026-11-12T07:45:11+00:00",
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://lsgkerala.gov.in/plandashboard/Plan/Annualplandetails.php"
  }
 }

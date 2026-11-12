@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-11T07:11:19+00:00",
+ "collected_at": "2026-11-12T07:45:11+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -491,7 +491,7 @@
    "name": "Upgradation of Govt ITI Ettumannur, Kottayam, Govt ITI Kattappana, Idukki and Govt ITI Chalakkudy",
    "agency": "KERALA ACADEMY FOR SKILLS EXCELLENCE",
    "approved_rs": 255268337.0,
-   "released_rs": 412065921.0,
+   "released_rs": 475107381.0,
    "status": "Project Approved",
    "districts": [
     "Thrissur",
@@ -2308,7 +2308,7 @@
    "name": "RECONSTRUCTION OF SUBASH CHANDRA BOSE ROAD BRIDGE IN CHILAVANNUR CANAL",
    "agency": "KOCHI METRO RAIL LIMITED",
    "approved_rs": 49224091.91,
-   "released_rs": 2100493.0,
+   "released_rs": 2098712.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -5338,7 +5338,7 @@
    "name": "Development of Taluk Hospital, Kottarakkara",
    "agency": "Kerala State Electricity Board Ltd",
    "approved_rs": 1062214891.0,
-   "released_rs": 195343482.0,
+   "released_rs": 200647361.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -6892,7 +6892,7 @@
    "name": "Thrissur, Malappuram Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 102832717.0,
-   "released_rs": 355152064.0,
+   "released_rs": 378487528.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -9539,7 +9539,7 @@
    "name": "Cluster I - Construction of Registration Complex at Nemom in Thiruvananthapuram District",
    "agency": "KERALA STATE CONSTRUCTION CORPORATION LTD.",
    "approved_rs": 221395810.0,
-   "released_rs": 156464469.0,
+   "released_rs": 162201846.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -10650,7 +10650,7 @@
    "name": "Improvements to Thottilpalam Kunduthode road from km 0/00 to 6/200 in Kozhikode District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 295943539.0,
-   "released_rs": 134783207.0,
+   "released_rs": 139048035.0,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
@@ -16349,7 +16349,7 @@
    "name": "Construction of 10 Nos. Road Over Bridges across Kerala with Steel Concrete Continues Composite Super Structure on Design Build and Transfer mode",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 2965179404.0,
-   "released_rs": 2281587263.65,
+   "released_rs": 2325751549.49,
    "status": "Project Approved",
    "districts": [
     "Malappuram"

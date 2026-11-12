@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:11:21+00:00",
+ "generated_at": "2026-11-12T07:45:24+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,11 +55,11 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-11-11T07:11:19+00:00",
+  "collected_at": "2026-11-12T07:45:11+00:00",
   "project_count": 1156,
   "evaluating_count": 251,
   "total_approved_cr": 93100.19,
-  "total_released_cr": 40839.58,
+  "total_released_cr": 40845.53,
   "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
   "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
   "pipeline": [
@@ -75,7 +75,7 @@
    },
    {
     "label": "Money released",
-    "value": "₹40,840 cr",
+    "value": "₹40,846 cr",
     "sub": "50% of their approved amount, to 639 projects"
    },
    {
@@ -103,12 +103,12 @@
    "Kozhikode": {
     "count": 100,
     "approved_cr": 4243.16,
-    "released_cr": 968.53
+    "released_cr": 968.96
    },
    "Malappuram": {
     "count": 93,
     "approved_cr": 3745.9,
-    "released_cr": 1141.79
+    "released_cr": 1146.21
    },
    "Palakkad": {
     "count": 93,
@@ -148,12 +148,12 @@
    "Kollam": {
     "count": 74,
     "approved_cr": 3477.32,
-    "released_cr": 1118.65
+    "released_cr": 1119.18
    },
    "Thiruvananthapuram": {
     "count": 144,
     "approved_cr": 18855.63,
-    "released_cr": 10102.0
+    "released_cr": 10102.58
    }
   },
   "multi_district": {
