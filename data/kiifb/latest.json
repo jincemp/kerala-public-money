@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-12T07:45:11+00:00",
+ "collected_at": "2026-11-13T07:20:31+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -1149,7 +1149,7 @@
    "name": "THALASSERI HERITAGE PROJECT - PHASE II",
    "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
    "approved_rs": 362854878.0,
-   "released_rs": 230025756.0,
+   "released_rs": 233573748.0,
    "status": "Project Approved",
    "districts": [
     "Kannur",
@@ -12817,7 +12817,7 @@
    "name": "Improvements to Kanjirappally - Manimala - Kulathoormoozhi - Karshaka Sauhruda Link Road in Kottayam District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 858198699.0,
-   "released_rs": 66896957.0,
+   "released_rs": 43084924.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
