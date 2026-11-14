@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-13T07:20:31+00:00",
+ "collected_at": "2026-11-14T07:03:27+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -2441,7 +2441,7 @@
    "name": "CONSTRUCTION OF MINI CIVIL STATION AT CHADAYAMANGALAM IN KOLLAM DISTRICT",
    "agency": "Kerala State Housing Board",
    "approved_rs": 111733222.0,
-   "released_rs": 11375854.0,
+   "released_rs": 21357416.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -6582,7 +6582,7 @@
    "name": "Malappuram Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 159273525.0,
-   "released_rs": 268838840.0,
+   "released_rs": 284240176.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -7472,7 +7472,7 @@
    "name": "Kasaragod Cluster - 21",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 149857069.0,
-   "released_rs": 244220823.0,
+   "released_rs": 247649217.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -8168,7 +8168,7 @@
    "name": "Strengthening of Fish marketing Infrastructure in Kollam District",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 128913100.0,
-   "released_rs": 175212595.0,
+   "released_rs": 198993040.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -10782,7 +10782,7 @@
    "name": "Construction of Kidanji Thuruthimukku bridge across Mayyazhi river connecting Kannur District and Kozhikkode District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 179562800.0,
-   "released_rs": 67843908.0,
+   "released_rs": 95508820.0,
    "status": "Project Approved",
    "districts": [
     "Kannur",
@@ -12817,7 +12817,7 @@
    "name": "Improvements to Kanjirappally - Manimala - Kulathoormoozhi - Karshaka Sauhruda Link Road in Kottayam District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 858198699.0,
-   "released_rs": 43084924.0,
+   "released_rs": 66896957.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
