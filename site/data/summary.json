@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:14:05+00:00",
+ "generated_at": "2026-11-16T07:18:59+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,11 +55,11 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-11-15T07:14:03+00:00",
+  "collected_at": "2026-11-16T07:18:57+00:00",
   "project_count": 1156,
   "evaluating_count": 251,
   "total_approved_cr": 93100.19,
-  "total_released_cr": 40849.65,
+  "total_released_cr": 40844.75,
   "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
   "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
   "pipeline": [
@@ -75,7 +75,7 @@
    },
    {
     "label": "Money released",
-    "value": "₹40,850 cr",
+    "value": "₹40,845 cr",
     "sub": "50% of their approved amount, to 639 projects"
    },
    {
@@ -88,7 +88,7 @@
    "Kasaragod": {
     "count": 48,
     "approved_cr": 4189.41,
-    "released_cr": 501.03
+    "released_cr": 498.91
    },
    "Kannur": {
     "count": 114,
