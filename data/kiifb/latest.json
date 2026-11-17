@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-16T07:18:57+00:00",
+ "collected_at": "2026-11-17T08:31:19+00:00",
  "amount_unit": "rupees",
  "project_count": 1407,
  "districts_checked": [
@@ -1560,7 +1560,7 @@
    "name": "Augmentation and Modernization of Water Supply Distribution system in Alappuzha Municipality- Balance works",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 2993110000.0,
-   "released_rs": 1287295968.08,
+   "released_rs": 1242033196.08,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -3988,7 +3988,7 @@
    "name": "Medical College Kochi-New Block, Staff Quarters and Allied Infrastructure",
    "agency": "INKEL LIMITED",
    "approved_rs": 2866623514.49,
-   "released_rs": 2327533224.82,
+   "released_rs": 2329141909.82,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -4296,7 +4296,7 @@
    "name": "Kottayam - Idukki Cluster Phase-3",
    "agency": "KITCO LTD",
    "approved_rs": 167295121.0,
-   "released_rs": 227551563.08,
+   "released_rs": 240700242.6,
    "status": "Project Approved",
    "districts": [
     "Idukki",
@@ -5158,7 +5158,7 @@
    "name": "Augmenting Infrastructural Facilities at Kannur University",
    "agency": "KITCO LTD",
    "approved_rs": 512624614.0,
-   "released_rs": 30205797.27,
+   "released_rs": 59364541.44,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -5230,7 +5230,7 @@
    "name": "PREETHIKULANGARA SCHOOL STADIUM AND ALAPUZHA EMS STADIUM",
    "agency": "KITCO LTD",
    "approved_rs": 152443994.0,
-   "released_rs": 120784520.36,
+   "released_rs": 140208101.6,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -5769,7 +5769,7 @@
    "name": "Development of SAT Hospital - Functionalizing Women and Child Block",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 112378811.0,
-   "released_rs": 24659102.0,
+   "released_rs": 37708452.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -6879,7 +6879,7 @@
    "name": "Kollam and Pathanamthitta - Cluster 5",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 152406728.0,
-   "released_rs": 667294510.0,
+   "released_rs": 675013850.0,
    "status": "Project Approved",
    "districts": [
     "Pathanamthitta",
@@ -7212,7 +7212,7 @@
    "name": "Palakkad - Cluster 11",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 180536090.0,
-   "released_rs": 1209695067.0,
+   "released_rs": 1221928834.0,
    "status": "Project Approved",
    "districts": [
     "Palakkad"
@@ -7484,7 +7484,7 @@
    "name": "Kozhikode Cluster - 16",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 139409822.0,
-   "released_rs": 496529620.0,
+   "released_rs": 509716120.0,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
@@ -7496,7 +7496,7 @@
    "name": "Malappuram Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 233448780.0,
-   "released_rs": 626368500.0,
+   "released_rs": 638359152.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -7520,7 +7520,7 @@
    "name": "Palakkad, Malappuram, Kozhikode, Kannur & Kasaragod Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 471895177.0,
-   "released_rs": 2010669323.0,
+   "released_rs": 2066529153.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod",
@@ -9957,7 +9957,7 @@
    "name": "Municipal Buildings - Koothatukulam and Pattambi Municipalities",
    "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
    "approved_rs": 174281753.0,
-   "released_rs": 69565984.0,
+   "released_rs": 75006278.0,
    "status": "Project Approved",
    "districts": [
     "Palakkad",
@@ -11252,7 +11252,7 @@
    "name": "Construction of New Kozhencherry Bridge across Pamba river in T.K. road in Pathanamthitta District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 285995435.0,
-   "released_rs": 221156079.0,
+   "released_rs": 200481111.0,
    "status": "Project Approved",
    "districts": [
     "Pathanamthitta"
