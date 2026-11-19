@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:57:15+00:00",
+ "generated_at": "2026-11-19T07:58:22+00:00",
  "district_order": [
   "Kasaragod",
   "Kannur",
@@ -55,11 +55,11 @@
  ],
  "kiifb": {
   "source_url": "https://www.kiifb.org/prjStatus.jsp",
-  "collected_at": "2026-11-17T08:31:19+00:00",
-  "project_count": 1156,
+  "collected_at": "2026-11-19T07:58:10+00:00",
+  "project_count": 1157,
   "evaluating_count": 251,
-  "total_approved_cr": 93100.19,
-  "total_released_cr": 40845.03,
+  "total_approved_cr": 93216.12,
+  "total_released_cr": 40913.52,
   "released_note": "Released totals leave out 281 projects where KIIFB's list shows more released than approved.",
   "headline_note": "KIIFB's homepage gives a lower total of ₹60,102 crore approved. We show the sum of its published project list.",
   "pipeline": [
@@ -70,17 +70,17 @@
    },
    {
     "label": "Approved",
-    "value": "₹93,100 cr",
-    "sub": "1,156 projects"
+    "value": "₹93,216 cr",
+    "sub": "1,157 projects"
    },
    {
     "label": "Money released",
-    "value": "₹40,845 cr",
-    "sub": "50% of their approved amount, to 639 projects"
+    "value": "₹40,914 cr",
+    "sub": "50% of their approved amount, to 641 projects"
    },
    {
     "label": "Mostly paid",
-    "value": "111",
+    "value": "113",
     "sub": "projects with 90% or more of their approved amount released"
    }
   ],
@@ -93,7 +93,7 @@
    "Kannur": {
     "count": 114,
     "approved_cr": 10135.83,
-    "released_cr": 2794.64
+    "released_cr": 2796.71
    },
    "Wayanad": {
     "count": 28,
@@ -108,22 +108,22 @@
    "Malappuram": {
     "count": 93,
     "approved_cr": 3745.9,
-    "released_cr": 1146.21
+    "released_cr": 1152.05
    },
    "Palakkad": {
     "count": 93,
     "approved_cr": 4113.84,
-    "released_cr": 1975.91
+    "released_cr": 1978.7
    },
    "Thrissur": {
     "count": 69,
     "approved_cr": 3676.01,
-    "released_cr": 878.64
+    "released_cr": 880.92
    },
    "Ernakulam": {
-    "count": 77,
-    "approved_cr": 10820.74,
-    "released_cr": 4243.7
+    "count": 78,
+    "approved_cr": 10936.67,
+    "released_cr": 4278.94
    },
    "Idukki": {
     "count": 24,
@@ -133,27 +133,27 @@
    "Kottayam": {
     "count": 43,
     "approved_cr": 2452.25,
-    "released_cr": 875.24
+    "released_cr": 881.52
    },
    "Alappuzha": {
     "count": 79,
     "approved_cr": 5035.57,
-    "released_cr": 1795.15
+    "released_cr": 1802.84
    },
    "Pathanamthitta": {
     "count": 39,
     "approved_cr": 1469.18,
-    "released_cr": 724.09
+    "released_cr": 725.8
    },
    "Kollam": {
     "count": 74,
     "approved_cr": 3477.32,
-    "released_cr": 1120.18
+    "released_cr": 1120.54
    },
    "Thiruvananthapuram": {
     "count": 144,
     "approved_cr": 18855.63,
-    "released_cr": 10103.88
+    "released_cr": 10108.11
    }
   },
   "multi_district": {

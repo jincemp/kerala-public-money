@@ -1,9 +1,9 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-17T08:31:19+00:00",
+ "collected_at": "2026-11-19T07:58:10+00:00",
  "amount_unit": "rupees",
- "project_count": 1407,
+ "project_count": 1408,
  "districts_checked": [
   "Thiruvananthapuram",
   "Kollam",
@@ -139,7 +139,7 @@
    "name": "Mitigating Human-Wildlife Conflict Through Community Participation",
    "agency": "STATE FOREST DEVELOPMENT AGENCY KERALA",
    "approved_rs": 679500000.0,
-   "released_rs": 408000000.0,
+   "released_rs": 410250000.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -796,6 +796,18 @@
    ]
   },
   {
+   "id": "d6wb8yg3t",
+   "department": "Water Resources Department",
+   "name": "Augmentation of WSS to Angamaly constituency",
+   "agency": "KERALA WATER AUTHORITY",
+   "approved_rs": 1159300000.0,
+   "released_rs": 264408680.0,
+   "status": "Project Approved",
+   "districts": [
+    "Ernakulam"
+   ]
+  },
+  {
    "id": "d6wb8yh2s",
    "department": "Water Resources Department",
    "name": "Construction of Groyne Fields in the severely eroded Coastal belt of Alappuzha District at Ottamassery, Kattoor-Pollethai, Kakkazham (Ambalappuzha) and Nellanickal (vattachal)",
@@ -1137,7 +1149,7 @@
    "name": "Developmental activities of Drinking Water Project at Mudhakkal Panchayat - Augmentation and Rehabilitation of RWSS to Mudakkal panchayath",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 400784013.0,
-   "released_rs": 91360177.0,
+   "released_rs": 104298687.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -1223,7 +1235,7 @@
    "name": "Karode Comprehensive Drinking Water Project - Phase 1",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 965343585.0,
-   "released_rs": 406505328.0,
+   "released_rs": 418785534.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -1451,7 +1463,7 @@
    "name": "Augmentation of WSS to Karumallur and Kunnukara Panchayaths",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 485279650.0,
-   "released_rs": 30810105.0,
+   "released_rs": 51729205.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -1560,7 +1572,7 @@
    "name": "Augmentation and Modernization of Water Supply Distribution system in Alappuzha Municipality- Balance works",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 2993110000.0,
-   "released_rs": 1242033196.08,
+   "released_rs": 1287295968.08,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -1741,7 +1753,7 @@
    "name": "Thalassery Heritage Project",
    "agency": "KERALA IRRIGATION INFRASTRUCTURE DEVELOPMENT CORPORATION LTD",
    "approved_rs": 409504336.31,
-   "released_rs": 3907061886.0,
+   "released_rs": 4031119040.0,
    "status": "Project Approved",
    "districts": [
     "Kannur",
@@ -1935,7 +1947,7 @@
    "name": "Water Supply Scheme to Tanur Municipality and adjoining 4 Panchayaths - phase 1",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 1000000000.0,
-   "released_rs": 889045216.46,
+   "released_rs": 914877834.46,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -2807,7 +2819,7 @@
    "name": "CHILAVANNUR BUND ROAD BRIDGE",
    "agency": "KOCHI METRO RAIL LIMITED",
    "approved_rs": 390664651.0,
-   "released_rs": 184043841.78,
+   "released_rs": 198705325.09,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -3500,7 +3512,7 @@
    "name": "Development of Sports Infrastructure Facilities at Govt. High School Kanjirapally Kunnumbhagom",
    "agency": "SPORTS KERALA FOUNDATION",
    "approved_rs": 277032588.0,
-   "released_rs": 16803667.0,
+   "released_rs": 32737085.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
@@ -3669,7 +3681,7 @@
    "name": "Construction of Olympian Chandrasekharan Indoor Stadium at Muvattupuzha, Ernakulam",
    "agency": "SPORTS KERALA FOUNDATION",
    "approved_rs": 442210251.0,
-   "released_rs": 54533160.0,
+   "released_rs": 66062426.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -3790,7 +3802,7 @@
    "name": "Development of General Hospital, Kottayam",
    "agency": "INKEL LIMITED",
    "approved_rs": 1446048207.0,
-   "released_rs": 357808612.0,
+   "released_rs": 385715190.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
@@ -3988,7 +4000,7 @@
    "name": "Medical College Kochi-New Block, Staff Quarters and Allied Infrastructure",
    "agency": "INKEL LIMITED",
    "approved_rs": 2866623514.49,
-   "released_rs": 2329141909.82,
+   "released_rs": 2342676256.82,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -5386,7 +5398,7 @@
    "name": "Development of Taluk Hospital, Kundara",
    "agency": "Kerala State Electricity Board Ltd",
    "approved_rs": 386660358.0,
-   "released_rs": 317210515.0,
+   "released_rs": 320866272.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -5564,7 +5576,7 @@
    "name": "Construction of New Domestic & International Hostels in Mahatma Gandhi University",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 349746111.0,
-   "released_rs": 148334496.0,
+   "released_rs": 167358119.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
@@ -5588,7 +5600,7 @@
    "name": "Construction of Medical college Teaching Hospital and allied Buildings - Phase II at Konni, Pathanamthitta",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 2183997714.21,
-   "released_rs": 1620178510.14,
+   "released_rs": 1637244887.14,
    "status": "Project Approved",
    "districts": [
     "Pathanamthitta"
@@ -5757,7 +5769,7 @@
    "name": "INTERNATIONAL STUDENTS HOSTEL & GIRLS HOSTEL AT CUSAT",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 368494520.0,
-   "released_rs": 0.0,
+   "released_rs": 11800000.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -6892,7 +6904,7 @@
    "name": "Thrissur, Malappuram Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 102832717.0,
-   "released_rs": 378487528.0,
+   "released_rs": 400675720.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -7008,7 +7020,7 @@
    "name": "Kasaragod Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 155419740.0,
-   "released_rs": 333680901.0,
+   "released_rs": 337723872.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -7105,7 +7117,7 @@
    "name": "Trivandrum, Kollam, Malappuram, Thrissur, Alapuzha",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 129239754.0,
-   "released_rs": 519154404.0,
+   "released_rs": 572093052.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram",
@@ -7335,7 +7347,7 @@
    "name": "Kozhikode Cluster-15",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 127261720.0,
-   "released_rs": 396661005.0,
+   "released_rs": 407309135.0,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
@@ -7385,7 +7397,7 @@
    "name": "Malappuram Cluster 5",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 282397251.0,
-   "released_rs": 1196514440.0,
+   "released_rs": 1221645968.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -7472,7 +7484,7 @@
    "name": "Kasaragod Cluster - 21",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 149857069.0,
-   "released_rs": 247649217.0,
+   "released_rs": 248850432.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod"
@@ -7496,7 +7508,7 @@
    "name": "Malappuram Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 233448780.0,
-   "released_rs": 638359152.0,
+   "released_rs": 673151808.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -7520,7 +7532,7 @@
    "name": "Palakkad, Malappuram, Kozhikode, Kannur & Kasaragod Cluster",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 471895177.0,
-   "released_rs": 2066529153.0,
+   "released_rs": 2143242114.0,
    "status": "Project Approved",
    "districts": [
     "Kasaragod",
@@ -10819,7 +10831,7 @@
    "name": "Construction of Thattassery Bridge in Alappuzha District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 635980226.35,
-   "released_rs": 113413892.51,
+   "released_rs": 131232815.51,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -10916,7 +10928,7 @@
    "name": "Construction of Punnamada Bridge in Alappuzha District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 574073886.0,
-   "released_rs": 244401907.0,
+   "released_rs": 258274359.0,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -11396,7 +11408,7 @@
    "name": "Ottappalam - Cherpulassery Road in Palakkad District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 633985522.61,
-   "released_rs": 495457724.0,
+   "released_rs": 523382464.0,
    "status": "Project Approved",
    "districts": [
     "Palakkad"
@@ -11420,7 +11432,7 @@
    "name": "Construction of Flyover at Venjaramood in Thiruvananthapuram District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 250298561.0,
-   "released_rs": 78534318.0,
+   "released_rs": 93384666.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -11624,7 +11636,7 @@
    "name": "Upgradation of Payyannur Ambalathara Kanayi Maniyaravayal Mathamangalam road km 0/000 to 11/350 in Kannur District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 585298409.4,
-   "released_rs": 549407612.0,
+   "released_rs": 570082510.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -11890,7 +11902,7 @@
    "name": "KIIFB-Hill Highway-SH 59  Improvements to Pattikad-Vilanganur-Mannamangalam-Pulikanni-Vellikulangara-Vettilapara Road  in Thrissur district-Phase II from ch0/000 to 5/300",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 218829649.0,
-   "released_rs": 196090151.0,
+   "released_rs": 218829649.0,
    "status": "Project Approved",
    "districts": [
     "Thrissur"
@@ -13947,7 +13959,7 @@
    "name": "Widening and Providing BM & BC to Nilambur - Moolepadam - Nayadampoyil - Valanthod Road km 11/000 to 26/000 of Ernad LAC",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 800297906.0,
-   "released_rs": 24904129.0,
+   "released_rs": 35307443.0,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
@@ -14571,7 +14583,7 @@
    "name": "Construction of ROB in lieu of existing LC No. 69 A at Vaduthala, Ernakulam",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 918971835.0,
-   "released_rs": 697863045.0,
+   "released_rs": 713395975.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -16349,7 +16361,7 @@
    "name": "Construction of 10 Nos. Road Over Bridges across Kerala with Steel Concrete Continues Composite Super Structure on Design Build and Transfer mode",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 2965179404.0,
-   "released_rs": 2325751549.49,
+   "released_rs": 2347887945.49,
    "status": "Project Approved",
    "districts": [
     "Malappuram"
