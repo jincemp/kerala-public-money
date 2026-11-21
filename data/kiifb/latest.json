@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-20T07:47:30+00:00",
+ "collected_at": "2026-11-21T07:43:37+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -2525,7 +2525,7 @@
    "name": "Development of Government Taluk Hospital, Thuravur",
    "agency": "Kerala State Housing Board",
    "approved_rs": 362654300.0,
-   "released_rs": 254599531.05,
+   "released_rs": 260791589.73,
    "status": "Project Approved",
    "districts": [
     "Alappuzha"
@@ -4371,7 +4371,7 @@
    "name": "Development of Medical College, Thrissur - Mother & Child Block",
    "agency": "INKEL LIMITED",
    "approved_rs": 2791906471.0,
-   "released_rs": 1608607463.72,
+   "released_rs": 1636263842.72,
    "status": "Project Approved",
    "districts": [
     "Thrissur"
@@ -4419,7 +4419,7 @@
    "name": "Development of Govt. Medical College, Thrissur - Super Specialty Block",
    "agency": "INKEL LIMITED",
    "approved_rs": 1994107759.0,
-   "released_rs": 1188597159.95,
+   "released_rs": 1231544815.95,
    "status": "Project Approved",
    "districts": [
     "Thrissur"
@@ -4515,7 +4515,7 @@
    "name": "Development of Taluk Hospital, Pathanapuram",
    "agency": "INKEL LIMITED",
    "approved_rs": 918803526.0,
-   "released_rs": 565595484.18,
+   "released_rs": 592492377.35,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -7918,7 +7918,7 @@
    "name": "Shore Protection works Providing Beach Landing Facility for Traditional Fishermen at Poonthura and Valiyathura",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 207810743.0,
-   "released_rs": 105274375.0,
+   "released_rs": 155484321.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -8548,7 +8548,7 @@
    "name": "Strengthening of Fish marketing Infrastructure in Trivandrum, Pathanamthitta, Alappuzha and Thrissur districts",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 202757258.0,
-   "released_rs": 198390969.0,
+   "released_rs": 209416004.0,
    "status": "Project Approved",
    "districts": [
     "Thrissur",
@@ -8887,7 +8887,7 @@
    "name": "Development of Malabar Cancer Centre, Thalasseri (2nd Phase) in Kannur District",
    "agency": "WAPCOS Limited",
    "approved_rs": 3983127835.0,
-   "released_rs": 570966196.0,
+   "released_rs": 610469561.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -10143,7 +10143,7 @@
    "name": "Office Building of Kannur Municipal Corporation - Revised Estimate",
    "agency": "INVESTMENT IN MUNICIPAL AND PANCHAYAT ASSET CREATION FOR TRANSFORMATION KERALA LTD",
    "approved_rs": 378344433.0,
-   "released_rs": 254930469.08,
+   "released_rs": 272580747.08,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -10422,7 +10422,7 @@
    "name": "Improvements to Sasthamcotta - Kottarakara - Neeleswaram - Court Complex road",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 280533159.0,
-   "released_rs": 258582416.0,
+   "released_rs": 535273348.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -10566,7 +10566,7 @@
    "name": "Improvements to Vamanapuram - Chittar road Km 0/000 to 7/000 and Km 12/500 to 21/050",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 357590368.0,
-   "released_rs": 317302667.0,
+   "released_rs": 345484096.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -10662,7 +10662,7 @@
    "name": "Improvements to Thottilpalam Kunduthode road from km 0/00 to 6/200 in Kozhikode District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 295943539.0,
-   "released_rs": 139048035.0,
+   "released_rs": 179378456.0,
    "status": "Project Approved",
    "districts": [
     "Kozhikode"
@@ -12829,7 +12829,7 @@
    "name": "Improvements to Kanjirappally - Manimala - Kulathoormoozhi - Karshaka Sauhruda Link Road in Kottayam District",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 858198699.0,
-   "released_rs": 66896957.0,
+   "released_rs": 102024068.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
@@ -13118,7 +13118,7 @@
    "name": "Maintenance of Roads",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 1467379080.0,
-   "released_rs": 1442084714.0,
+   "released_rs": 1448855634.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -14067,7 +14067,7 @@
    "name": "Four Laning of Vazhayila - Pazhakutty - Kacherinada - 11th stone road",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 12936865967.0,
-   "released_rs": 9143804932.0,
+   "released_rs": 9334481474.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -15989,7 +15989,7 @@
    "name": "Purayar Railway Over Bridge",
    "agency": "ROADS AND BRIDGES DEVELOPMENT CORPORATION OF KERALA LTD",
    "approved_rs": 537063978.0,
-   "released_rs": 125192436.22,
+   "released_rs": 133572796.22,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
