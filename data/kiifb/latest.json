@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-21T07:43:37+00:00",
+ "collected_at": "2026-11-22T07:29:18+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -801,7 +801,7 @@
    "name": "Augmentation of WSS to Angamaly constituency",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 1159300000.0,
-   "released_rs": 264408680.0,
+   "released_rs": 301598688.0,
    "status": "Project Approved",
    "districts": [
     "Ernakulam"
@@ -5720,7 +5720,7 @@
    "name": "DEVELOPMENT OF GH Changanassery",
    "agency": "HLL INFRA TECH SERVICES LTD",
    "approved_rs": 548762888.0,
-   "released_rs": 251478689.0,
+   "released_rs": 236660662.0,
    "status": "Project Approved",
    "districts": [
     "Kottayam"
