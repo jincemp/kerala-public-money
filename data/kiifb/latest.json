@@ -1,7 +1,7 @@
 {
  "source": "KIIFB project status",
  "source_url": "https://www.kiifb.org/prjStatus.jsp",
- "collected_at": "2026-11-22T07:29:18+00:00",
+ "collected_at": "2026-11-23T08:16:54+00:00",
  "amount_unit": "rupees",
  "project_count": 1408,
  "districts_checked": [
@@ -1983,7 +1983,7 @@
    "name": "Thalassery Koothuparamba Comprehensive Drinking Water Supply Scheme",
    "agency": "KERALA WATER AUTHORITY",
    "approved_rs": 858601000.0,
-   "released_rs": 641559718.0,
+   "released_rs": 501012730.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
@@ -2929,7 +2929,7 @@
    "name": "Development of Taluk Hospital, Neendakara",
    "agency": "Kerala State Housing Board",
    "approved_rs": 343684858.0,
-   "released_rs": 247681161.2,
+   "released_rs": 247805256.2,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -5882,7 +5882,7 @@
    "name": "Trivandrum - Cluster 2",
    "agency": "Kerala Institute of Local Administration",
    "approved_rs": 224014000.0,
-   "released_rs": 601686890.0,
+   "released_rs": 606065975.0,
    "status": "Project Approved",
    "districts": [
     "Thiruvananthapuram"
@@ -8404,7 +8404,7 @@
    "name": "Shore protection work from Kollam beach to Thanni in Kollam district",
    "agency": "KERALA STATE COASTAL AREA DEVELOPMENT CORPORATION LIMITED",
    "approved_rs": 421957361.0,
-   "released_rs": 349922730.0,
+   "released_rs": 354330712.0,
    "status": "Project Approved",
    "districts": [
     "Kollam"
@@ -11854,7 +11854,7 @@
    "name": "PROVIDING DBM AND BC TO KEEZHMADAM KALLIKANDY THOOVANKUNN VADAKKEPOILUR KUNNOTHPARAMBA ROAD 0/000 to 12/555 IN KANNUR DISTRICT",
    "agency": "KERALA ROAD FUND BOARD",
    "approved_rs": 376218405.0,
-   "released_rs": 245693154.0,
+   "released_rs": 258898476.0,
    "status": "Project Approved",
    "districts": [
     "Kannur"
